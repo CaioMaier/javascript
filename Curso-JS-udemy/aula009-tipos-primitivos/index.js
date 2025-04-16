@@ -23,5 +23,14 @@ Contem duas opcoes de valores apenas: true ou false
 
 //EXEMPLO:
 
-const booleano = true;
+const booleano = false;
 const boooleano = false;
+
+if( booleano == true ) { 
+    idade = 46 } else { 
+        idade = 51
+    }
+
+    console.log(idade)
+
+    // ENTAO, String, number, undefined, null, boolean e symbol SAO OS TIPOS PRIMITIVOS
