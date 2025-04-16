@@ -1,6 +1,6 @@
-let nome = 'Rafael';
-let esposa = 'Alexia';
-let filha = 'Alice';
+let nome = 'Caio';
+let esposa = 'Nicole';
+let filha = 'Helena';
 
 console.log(nome, 'nasceu em 2001');
 console.log('Em 2024', nome, 'conheceu', esposa);
